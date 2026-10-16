@@ -1,0 +1,41 @@
+[
+  {
+    "name": "park",
+    "file": "park.jpg",
+    "title": "File:46 Skopje, city park (33663866281).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:46_Skopje,_city_park_(33663866281).jpg",
+    "artist": "d*oraz",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "Resized, converted to WebP; displayed cropped."
+  },
+  {
+    "name": "matka",
+    "file": "matka.jpg",
+    "title": "File:Matka (1 of 3).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Matka_(1_of_3).jpg",
+    "artist": "Massimo1805",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized, converted to WebP; displayed cropped."
+  },
+  {
+    "name": "museum",
+    "file": "museum.jpg",
+    "title": "File:Muzej na sovremena umetnost (61).JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Muzej_na_sovremena_umetnost_(61).JPG",
+    "artist": "Tamara Saveska",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized, converted to WebP; displayed cropped."
+  },
+  {
+    "name": "bazaar",
+    "file": "bazaar.jpg",
+    "title": "File:Old Bazaar, Skopje.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Old_Bazaar,_Skopje.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "changes": "Resized, converted to WebP; displayed cropped."
+  }
+]

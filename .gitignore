@@ -1,0 +1,8 @@
+dist/
+node_modules/
+.DS_Store
+qa/
+tmp/
+public/assets/*.jpg
+public/assets/lunchbox.ttf
+public/assets/bazaar.webp
